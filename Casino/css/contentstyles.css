@@ -1,0 +1,266 @@
+body{
+   background-image: url("https://i.imgur.com/iRxXln7.png");
+   margin: 0;
+   padding: 0;
+
+}
+/*info texten etc*/
+.row1{
+ color: white;
+}
+.col-xl1 h1{
+  text-align: center;
+  padding-top: 32px;
+  font-size: 3em;
+  font-weight: bold;
+}
+.col-xl1 p {
+  padding-top: 14px;
+  padding-bottom: 14px;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 0;
+  font-size: 18px;
+}
+
+.card-header1 a{
+  color: white;
+}
+/*KORT SEKTIONEN*/
+.row{
+  justify-content: center;
+  margin-top: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom:  5%;
+}
+.card-subtitle{
+  text-align: center;
+  padding-top: 10px;
+}
+.card{
+  background-color: transparent;
+  height: 100%;
+}
+
+.card-body{
+  color:black;
+  background-color: #bfbfbf;
+  font-weight: bold;
+  padding: 0;
+  padding-bottom: 15px;
+  border-radius: 5px;
+}
+
+.container{
+  min-width: 100%;
+  background-image: url("https://i.imgur.com/iRxXln7.png");
+}
+.card-title{
+  background-image: url("https://d15o9qq6jqrrp9.cloudfront.net/assets/images/sites/119/logos/30432/80px-height-LeoVegas.png");
+  background-color: #F77946;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 80px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title2{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/casumo-logo.png");
+  background-color: #00C1BA;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title3{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/rizk-logo-bcb.png");
+  background-color: #EF4136;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title4{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/storspelare-logga.png");
+  background-color: #683e3e;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title5{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/verajohn-logo.png");
+  background-color: #009ADD;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title6{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/bethard-logo-free.png");
+  background-color: black;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title7{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/unibet-logo.png");
+  background-color: white;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title8{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/mariacasino-logo.png");
+  background-color:#151D2F;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-title9{
+  background-image: url("https://bastacasinobonus.se/wp-content/uploads/casinostugan-logo.png");
+  background-color:#551814;
+  background-repeat: no-repeat;
+  height: 80px;
+  background-size: contain;
+  background-position: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.contentsection3{
+  width: 100%;
+  opacity: 0.7;
+background-color:#000000;
+}
+div.col-md-6 p{
+  margin: 0;
+  float: left;
+}
+p.card-text{
+  font-size: 1.3em;
+  padding: 0;
+  padding-bottom: 15px;
+}
+.card1:hover{
+filter: drop-shadow(0 0 1rem #F87645);
+transition:  0.3s ease-in-out;
+}
+.card2:hover{
+filter: drop-shadow(0 0 1rem #00C1BA);
+transition:  0.3s ease-in-out;
+}
+.card3:hover{
+filter: drop-shadow(0 0 1rem #EF4136);
+transition:  0.3s ease-in-out;
+}
+.card4:hover{
+filter: drop-shadow(0 0 1rem #683e3e);
+transition:  0.3s ease-in-out;
+}
+.card5:hover{
+filter: drop-shadow(0 0 1rem #009ADD);
+transition:  0.3s ease-in-out;
+}
+.card6:hover{
+filter: drop-shadow(0 0 1rem black);
+transition:  0.3s ease-in-out;
+}
+.card7:hover{
+filter: drop-shadow(0 0 1rem white);
+transition:  0.3s ease-in-out;
+}
+.card8:hover{
+filter: drop-shadow(0 0 1rem #151D2F);
+transition:  0.3s ease-in-out;
+}
+.card9:hover{
+filter: drop-shadow(0 0 1rem #551814);
+transition:  0.3s ease-in-out;
+}
+.mybuttonoverlap{
+	position: relative;
+    top: 85%;
+    left: 26%;
+    width: 50%;
+  }
+.image-10{
+  padding-bottom: 5px;
+    padding-right: 4px;
+}
+.rating{
+  padding-bottom: 5px;
+}
+.dropdown-item:hover{
+  background-color: #17A2B8;
+  transition: 0.3s;
+}
+.dropdown-menu.show{
+  padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .col-xl1 p{
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .col-xl1 p{
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .col-xl1 p{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .col-xl1 p{
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+  p.card-text{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .col-xl1 p{
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+  p.card-text{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+@media only screen and (min-width: 1550px) {
+  .col-xl1 p{
+    margin-left: 450px;
+    margin-right: 450px;
+  }
+  p.card-text{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
