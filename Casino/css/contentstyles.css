@@ -56,8 +56,10 @@ body{
   min-width: 100%;
   background-image: url("https://i.imgur.com/iRxXln7.png");
 }
-.card-title{
-  background-image: url("https://d15o9qq6jqrrp9.cloudfront.net/assets/images/sites/119/logos/30432/80px-height-LeoVegas.png");
+.card-title img{
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: #F77946;
   background-repeat: no-repeat;
   background-size: contain;
@@ -67,6 +69,8 @@ body{
 }
 .card-title2 img{
  width: 100%;
+ padding-left: 15px;
+ padding-right: 15px;
   background-color: #00C1BA;
   background-repeat: no-repeat;
   height: 80px;
@@ -77,6 +81,8 @@ body{
 }
 .card-title3 img{
   width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: #EF4136;
   background-repeat: no-repeat;
   height: 80px;
@@ -87,6 +93,8 @@ body{
 }
 .card-title4 img{
   width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: #683e3e;
   background-repeat: no-repeat;
   height: 80px;
@@ -97,6 +105,8 @@ body{
 }
 .card-title5 img{
   width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: #009ADD;
   background-repeat: no-repeat;
   height: 80px;
@@ -107,6 +117,8 @@ body{
 }
 .card-title6 img{
   width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: black;
   background-repeat: no-repeat;
   height: 80px;
@@ -117,6 +129,8 @@ body{
 }
 .card-title7 img{
   width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: white;
   background-repeat: no-repeat;
   height: 80px;
@@ -127,6 +141,8 @@ body{
 }
 .card-title8 img{
 width: 100%;
+padding-left: 15px;
+padding-right: 15px;
   background-color:#151D2F;
   background-repeat: no-repeat;
   height: 80px;
@@ -137,6 +153,8 @@ width: 100%;
 }
 .card-title9 img{
   width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color:#551814;
   background-repeat: no-repeat;
   height: 80px;
