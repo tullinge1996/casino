@@ -29,8 +29,12 @@ div.container.change{
   padding: 0;
 }
 .homeimage{
+  height: 60px;
+  width: 270px;
+  opacity: 1;
+}
+.swedishflag{
   height: 50px;
-  opacity: 0;
 }
 .container {
     display: inline-block;
